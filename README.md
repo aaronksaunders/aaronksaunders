@@ -1,4 +1,9 @@
-### Hi there 👋 This Is Where The Magic Happens...
+<p align="center">
+  <img src="_FiWiC__ cropped.png"  height="150" /><br />
+</p>
+<br/>
+
+### 👋 This Is Where The Magic Happens...
 
 - Sample Project Repos of mostly [Ionic Framework](https://ionicframework.com/docs); written in vuejs and reactjs with some old angular projects
 - Alot of the repos are based on [@YouTube Videos](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg), Please Checkout the channel and like and subscribe for updates  
