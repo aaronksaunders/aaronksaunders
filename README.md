@@ -5,7 +5,8 @@
 
 ### 👋 This Is Where The Magic Happens...
 
-- I run a web and mobile development firm [Clearly Innovative Inc](https://www.clearlyinnovative.com/), <a href=mailto:info@clearlyinnovative.com?subject=Mail from our Website"> us if you are looking for support</a>
+- I run a web and mobile development firm [Clearly Innovative Inc](https://www.clearlyinnovative.com/), <a href="mailto:info@clearlyinnovative.com?subject=Mail from our Website"> Email us if you are looking for support</a>
+                                                                        
 - Sample Project Repos of mostly [Ionic Framework](https://ionicframework.com/docs); written in vuejs and reactjs with some old angular projects
 - Alot of the repos are based on [@YouTube Videos](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg), Please Checkout the channel and like and subscribe for updates  
 - Actively Blogging on [Dev.To](https://dev.to/aaronksaunders) please take a look
