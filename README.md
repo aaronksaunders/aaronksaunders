@@ -4,10 +4,11 @@
 - Alot of the repos are based on @YouTube Videos, Please Checkout the channel and like and subscribe for updates  
 
 <div>
-  <a href="https://twitter.com/aaronksaunders">
+
+ <a href="https://www.youtube.com/channel/aaronsaundersci">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="30" height="30" alt="Youtube" /></a>
   
-  <a href="https://www.youtube.com/channel/aaronsaundersci">
+  <a href="https://twitter.com/aaronksaunders">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30" alt="Youtube" /></a>
 </div>
 
