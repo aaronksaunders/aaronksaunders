@@ -8,16 +8,21 @@
 
  <a href="https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="30" height="30" alt="Youtube" /></a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aaronksaunders">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30" alt="Twitter" /></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://c-innovative.medium.com/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="30" height="30" alt="Medium" /></a>
-      &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/aaronksaunders">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="30" height="30" alt="Medium" /></a>
 </div>
+<br/><br/>
+<div>
+  <a href="https://ko-fi.com/W7W31U7HM">
+  <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" data-canonical-src="https://www.ko-fi.com/img/githubbutton_sm.svg"  height="30" alt="Medium" /></a>
+ </div>
 
 <!--
 **aaronksaunders/aaronksaunders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
