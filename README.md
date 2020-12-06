@@ -1,7 +1,8 @@
 ### Hi there 👋 This Is Where The Magic Happens...
 
-- Sample Project Repos of mostly Ionic Framework; written in vuejs and reactjs with some old angular projects
-- Alot of the repos are based on @YouTube Videos, Please Checkout the channel and like and subscribe for updates  
+- Sample Project Repos of mostly [Ionic Framework](https://ionicframework.com/docs); written in vuejs and reactjs with some old angular projects
+- Alot of the repos are based on [@YouTube Videos](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg), Please Checkout the channel and like and subscribe for updates  
+- Actively Blogging on [Dev.To](https://dev.to/aaronksaunders) please take a look
 
 <div>
 
@@ -13,6 +14,9 @@
     &nbsp;&nbsp;&nbsp;
   <a href="https://c-innovative.medium.com/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="30" height="30" alt="Medium" /></a>
+      &nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/aaronksaunders">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="30" height="30" alt="Medium" /></a>
 </div>
 
 <!--
