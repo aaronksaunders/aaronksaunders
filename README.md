@@ -30,7 +30,7 @@
   <a href="https://ko-fi.com/W7W31U7HM">
   <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" data-canonical-src="https://www.ko-fi.com/img/githubbutton_sm.svg"  height="30" alt="Medium" /></a>
  </div>
- 
+ <br/><br/>
 [![Aarons's github stats](https://github-readme-stats.vercel.app/api?username=aaronksaunders)](https://github.com/aaronksaunders/github-readme-stats)
 
 <!--
