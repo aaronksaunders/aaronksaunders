@@ -4,6 +4,8 @@
 <br/>
 
 ### 👋 This Is Where The Magic Happens...
+- **Sign Up For Newsletter** [Click To See More...](https://fiwic.ck.page/0bea0cd20d
+)
 
 - I run a web and mobile development firm [Clearly Innovative Inc](https://www.clearlyinnovative.com/), <a href="mailto:info@clearlyinnovative.com?subject=Mail from our Website"> Email us if you are looking for support</a>
                                                                         
