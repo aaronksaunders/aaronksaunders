@@ -7,6 +7,17 @@
 - **Sign Up For Newsletter** [Click To See More...](https://fiwic.ck.page/0bea0cd20d
 )
 
+---
+
+#### Starting 2021 Off Right - New eBook
+- Click Here For More Information: https://leanpub.com/ionic-vue-sqlite-crud
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/Eq5jFffWMAA98kw?format=jpg"   height="350" /><br/>
+</p>
+
+---
+
 - I run a web and mobile development firm [Clearly Innovative Inc](https://www.clearlyinnovative.com/), <a href="mailto:info@clearlyinnovative.com?subject=Mail from our Website"> Email us if you are looking for support</a>
                                                                         
 - Sample Project Repos of mostly [Ionic Framework](https://ionicframework.com/docs); written in vuejs and reactjs with some old angular projects
