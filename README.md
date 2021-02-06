@@ -9,8 +9,9 @@
 
 ---
 
-#### Starting 2021 Off Right - New eBook
-- Click Here For More Information: https://leanpub.com/ionic-vue-sqlite-crud
+#### Starting 2021 Off Right - New eBook, New UDEMY COURSE
+- EBOOK: https://leanpub.com/ionic-vue-sqlite-crud
+- UDEMY COURSE: https://www.udemy.com/course/using-ionic-framework-vuejs-firebase-vuex-for-image-diary/?referralCode=4E0B017049999378880A
 
 <p align="center">
   <img src="https://pbs.twimg.com/media/Eq5jFffWMAA98kw?format=jpg"   height="350" /><br/>
