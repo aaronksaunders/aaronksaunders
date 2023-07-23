@@ -9,12 +9,11 @@
 
 ---
 
-#### Starting 2021 Off Right - New eBook, New UDEMY COURSE
-- EBOOK: https://leanpub.com/ionic-vue-sqlite-crud
-- UDEMY COURSE: https://www.udemy.com/course/using-ionic-framework-vuejs-firebase-vuex-for-image-diary/?referralCode=4E0B017049999378880A
+#### Technical Content Covered On YouTube Channel and Blog Posts
+
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/Eq5jFffWMAA98kw?format=jpg"   height="350" /><br/>
+  <img src="Mobile%20Development%20with%20vue%2C%20Vite%20and%20ionic%20Capacitor%20(1).png"   height="450" /><br/>
 </p>
 
 ---
